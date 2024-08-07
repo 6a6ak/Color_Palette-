@@ -77,4 +77,3 @@ class _RegisterPageState extends State<RegisterPage> {
     );
   }
 }
-//end of register
